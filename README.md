@@ -2,7 +2,7 @@
 
 Este proyecto utiliza una Raspberry Pi, un acelerador Coral de Google y visión por computadora para detectar la atención de las personas hacia una vitrina o exhibición. Cuando se detecta una "atención cualificada", el sistema registra un "impacto" y puede activar una salida física, como un LED.
 
-![placeholder](https://imgur.com/a/MT6XbFf)
+![placeholder](https://imgur.com/a/j4dwZkl)
 *(Aquí puedes poner una foto o un GIF del proyecto en acción)*
 
 ## Índice
