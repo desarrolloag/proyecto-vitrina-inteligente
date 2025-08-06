@@ -10,7 +10,7 @@ Este proyecto utiliza una Raspberry Pi, un acelerador Coral de Google y visión 
 * [Configuración del Software](#-configuración-del-software)
 * [Conexión del Hardware (GPIO)](#-conexión-del-hardware-gpio)
 * [Estructura del Repositorio](#-estructura-del-repositorio)
-* [Uso del Programa](#-ejecutando-el-proyecto)
+* [Ejecutando el Proyecto](#-ejecutando-el-proyecto)
 * [Solución de Problemas](#-solución-de-problemas)
 
 ---
