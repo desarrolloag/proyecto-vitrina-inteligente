@@ -99,7 +99,7 @@ Si deseas usar la salida del LED, conéctalo según el siguiente diagrama. El sc
 
 ---
 
-### ▶️ Ejecutando el Proyecto
+### Ejecutando el Proyecto
 
 #### **Paso 1: ¡Calibrar! (Muy Importante)**
 
